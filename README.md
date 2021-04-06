@@ -13,3 +13,4 @@ Screenshots
 ![Rofi](Rofi.bmp)
 ![Rofi](rofipowermenu.bmp)
 ![Desktop](desktoporange.bmp)
+![Desktop](discord.bmp)
