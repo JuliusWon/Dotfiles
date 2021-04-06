@@ -12,4 +12,4 @@ Polybar-themes on github
 Screenshots
 ![Rofi](Rofi.bmp)
 ![Rofi](rofipowermenu.bmp)
-![Desktop](desktop orange.bmp)
+![Desktop](desktoporange.bmp)
