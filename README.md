@@ -10,7 +10,7 @@ Arcolinux xmonad configs
 Polybar-themes on github
 
 Screenshots
+![Discord](discord.bmp)
 ![Rofi](Rofi.bmp)
 ![Rofi](rofipowermenu.bmp)
 ![Desktop](desktoporange.bmp)
-![Desktop](discord.bmp)
