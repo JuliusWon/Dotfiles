@@ -10,4 +10,4 @@ Arcolinux xmonad configs
 Polybar-themes on github
 
 Screenshots
-![Rofi](rofi)
+![Rofi](Rofi.bmp)
